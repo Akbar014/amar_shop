@@ -1,0 +1,4 @@
+[26-Sep-2021 05:50:16 America/New_York] PHP Warning:  require(/home/rpigvnqc/lotusint.store/../vendor/autoload.php): failed to open stream: No such file or directory in /home/rpigvnqc/lotusint.store/index.php on line 34
+[26-Sep-2021 05:50:16 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/rpigvnqc/lotusint.store/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rpigvnqc/lotusint.store/index.php on line 34
+[26-Sep-2021 05:50:23 America/New_York] PHP Warning:  require(/home/rpigvnqc/lotusint.store/../vendor/autoload.php): failed to open stream: No such file or directory in /home/rpigvnqc/lotusint.store/index.php on line 34
+[26-Sep-2021 05:50:23 America/New_York] PHP Fatal error:  require(): Failed opening required '/home/rpigvnqc/lotusint.store/../vendor/autoload.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/rpigvnqc/lotusint.store/index.php on line 34
